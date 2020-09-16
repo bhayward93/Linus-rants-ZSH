@@ -13,7 +13,7 @@ Outputs a random Linus Torvalds rant every time you open a ZSH shell, using the 
 
 # Installation (Ubuntu / Oh-My-Zsh)
 
-```sudo apt-get install cowsay```
+```sudo apt-get install cowsay lolcat```
 
 ```cd $ZSH/custom/plugins```
 
