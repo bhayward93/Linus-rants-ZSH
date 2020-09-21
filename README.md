@@ -9,7 +9,8 @@ Outputs a random Linus Torvalds rant every time you open a ZSH shell, using the 
 > No it's not. Please fix your crappy script. First off, that '#' is wrong. It should be a space.
 
 # Preview
-![https://i.imgur.com/ZluOL8Z.png](https://i.imgur.com/ZluOL8Z.png)
+
+![preview images](https://i.imgur.com/BnZmMfK.png)
 
 # Installation (Ubuntu / Oh-My-Zsh)
 
