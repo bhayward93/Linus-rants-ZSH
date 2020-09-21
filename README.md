@@ -13,10 +13,10 @@ Outputs a random Linus Torvalds rant every time you open a ZSH shell, using the 
 
 # Installation (Ubuntu / Oh-My-Zsh)
 
-```sudo apt-get install cowsay```
+```sudo apt-get install cowsay lolcat```
 
 ```cd $ZSH/custom/plugins```
 
-```git clone https://github.com/bhayward93/Linus-rants-ZSH.git```
+```git clone https://github.com/bhayward93/Linus-rants-ZSH.git linus-rants```
 
 then add `linus-rants` into the plugins in your `.zshrc`
